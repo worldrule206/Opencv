@@ -6,5 +6,4 @@
 - Python v_3.8.3      
 - Opencv 4.5.1
 ---
-&nbsp;
 #### Python Opencv를 활용하는 방법을 기록.
