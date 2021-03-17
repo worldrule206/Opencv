@@ -1,6 +1,5 @@
-# 1. **Python Opencv를 사용하여 이미지 및 영상 다루기**
+# **Python Opencv를 사용하여 이미지 및 영상 다루기**
 
-  ##실행환경
 - Window 10
 - conda 4.8.3
 - Python v_3.8.3      
